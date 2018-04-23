@@ -1,5 +1,9 @@
 # lint-webpack-plugin
 
+[![npm](https://img.shields.io/npm/v/lint-webpack-plugin.svg?style=flat-square)](https://www.npmjs.com/package/lint-webpack-plugin)
+[![Travis](https://img.shields.io/travis/utatti/lint-webpack-plugin.svg?style=flat-square)](https://travis-ci.org/utatti/lint-webpack-plugin)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
 A webpack plugin to run custom lint shell command
 
 ## What's this?
