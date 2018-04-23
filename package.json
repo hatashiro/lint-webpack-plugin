@@ -1,0 +1,25 @@
+{
+  "name": "lint-webpack-plugin",
+  "version": "0.0.0",
+  "description": "A webpack plugin to run custom lint shell command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utatti/lint-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-plugin",
+    "lint",
+    "shell"
+  ],
+  "author": "Hyunje Jun <me@noraesae.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utatti/lint-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/utatti/lint-webpack-plugin#readme"
+}
