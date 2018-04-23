@@ -43,6 +43,9 @@ module.exports = {
 };
 ```
 
+Please note that the current `./node_modules/.bin` will be added to `PATH`, so
+local package binaries can be used directly.
+
 ## Demo
 
 ### Build
