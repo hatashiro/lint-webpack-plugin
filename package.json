@@ -1,6 +1,6 @@
 {
   "name": "lint-webpack-plugin",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A webpack plugin to run custom lint shell command",
   "main": "index.js",
   "scripts": {
